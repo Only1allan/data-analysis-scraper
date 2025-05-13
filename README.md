@@ -1,9 +1,9 @@
 
-# Hector-Scrapy: Manager Filings and Holdings Scraper
+#Manager Filings and Holdings Scraper
 
 ## Overview
 
-**Hector-Scrapy** is a Python-based web scraping tool built using the Scrapy framework. It automates the collection of financial data, focusing on fund managers, their filings, and holdings. This tool is ideal for financial analysts, researchers, and anyone tracking investment trends and fund manager activities.
+**Hector-Scrapy** is a Python-based web scraping tool built using the Scrapy framework. It automates the collection of financial data, focusing on fund managers, their filings, and holdings from the following website. [https://13f.info/](url)
 
 The scraping logic is divided into three main spiders:
 

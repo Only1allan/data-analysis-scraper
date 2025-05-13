@@ -1,0 +1,5 @@
+scrapy>=2.12.0
+pymongo>=4.7.0
+python-dotenv>=1.0.0
+pandas~=2.2.3
+Twisted~=24.11.0

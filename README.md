@@ -75,14 +75,9 @@ MANAGER_LIST_BASE_URL=https://13f.info/managers
 Use the following command to run a specific spider:
 
 ```bash
-scrapy crawl <spider_name>
+python3 -m scraper.main
 ```
-
-Replace `<spider_name>` with:
-
-- `managers` (Managers Spider)
-- `filings` (Filings Spider)
-- `holdings` (Holdings Spider)
+- note the creation of the following files as the crawler work `13f-info.json` in the checkpoints folder containing all the data we need and `processed_data.csv` with the final data
 
 ## Spiders and Their Inner Workings
 
